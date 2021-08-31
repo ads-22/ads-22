@@ -1,7 +1,7 @@
 ### Hi there 👋
 **Best life comes from living outside comfort zone**
 - 🔭 I’m currently working on Problem Solving Skills
-- 🌱 I’m currently learning Compititive Programming 
+- 🌱 I’m currently learning Competitive Programming 
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with cracking interviews
 <!--
