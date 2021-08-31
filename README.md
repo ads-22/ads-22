@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+**Best life comes from living outside comfort zone**
+- 🔭 I’m currently working on Problem Solving Skills
+- 🌱 I’m currently learning Compititive Programming 
+- 👯 I’m looking to collaborate on Machine Learning Projects
+- 🤔 I’m looking for help with cracking interviews
 <!--
 **ads-22/ads-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
